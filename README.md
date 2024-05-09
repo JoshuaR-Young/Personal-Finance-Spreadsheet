@@ -1,5 +1,5 @@
 # Personal-Finance-Spreadsheet
-this spreadsheet is personal project that was created by Joahua Young and Jon Foresi to track personal finances on an in-depth level.
+This spreadsheet is personal project that was created by Joahua Young and Jon Foresi to track personal finances on an in-depth level.
 You can find tools to calculate things like: 
   Monthly Expenses, 
   Finance Planner,
